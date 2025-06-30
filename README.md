@@ -50,4 +50,3 @@ Filter available time slots by service, team member, or duration
 Modify the reminder timing (e.g., 1 hour before, 24h before, etc.)
 Add conditional logic to route users to different booking flows based on their responses
 Integrate additional CRMs or notification channels like email or Slack
-📄 Documentation: Notion Guide
